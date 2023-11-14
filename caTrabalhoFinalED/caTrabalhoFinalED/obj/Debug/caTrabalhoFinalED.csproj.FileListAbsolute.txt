@@ -1,0 +1,8 @@
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caTrabalhoFinalED\caTrabalhoFinalED\bin\Debug\caTrabalhoFinalED.exe.config
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caTrabalhoFinalED\caTrabalhoFinalED\bin\Debug\caTrabalhoFinalED.exe
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caTrabalhoFinalED\caTrabalhoFinalED\bin\Debug\caTrabalhoFinalED.pdb
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caTrabalhoFinalED\caTrabalhoFinalED\obj\Debug\caTrabalhoFinalED.csproj.AssemblyReference.cache
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caTrabalhoFinalED\caTrabalhoFinalED\obj\Debug\caTrabalhoFinalED.csproj.SuggestedBindingRedirects.cache
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caTrabalhoFinalED\caTrabalhoFinalED\obj\Debug\caTrabalhoFinalED.csproj.CoreCompileInputs.cache
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caTrabalhoFinalED\caTrabalhoFinalED\obj\Debug\caTrabalhoFinalED.exe
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caTrabalhoFinalED\caTrabalhoFinalED\obj\Debug\caTrabalhoFinalED.pdb
